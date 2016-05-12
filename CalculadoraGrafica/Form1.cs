@@ -195,7 +195,7 @@ namespace CalculadoraGrafica
         private void Form1_Load(object sender, EventArgs e)
         {
             LinkLabel.Link enlace = new LinkLabel.Link();
-            enlace.LinkData = "www.google.com";
+            enlace.LinkData = "https://github.com/LeynerCordoba";
             LinkVisitanos.Links.Add(enlace);
 
         }
